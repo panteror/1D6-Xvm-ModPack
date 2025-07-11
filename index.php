@@ -1,0 +1,187 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-02LY52MGFT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-02LY52MGFT');
+</script>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+<title>1D6 XVM ModPack - World of Tanks</title>
+<style type="text/css">
+body{
+  margin: auto;
+  font-family: Arial;
+  text-align: center;
+}
+ 
+#conteneur {
+margin: auto;
+  width: 900px;
+  text-align: justify;
+  background-color:#F9F9F9;
+}
+
+#conteneur2 {
+margin: auto;
+  width: 900px;
+  text-align: right;
+  background-color:#F9F9F9;
+}
+
+.titre{
+  font-weight: bold;
+  color: rgb(51, 102, 255);
+  text-decoration: underline;  
+}
+img {
+  vertical-align:middle;
+}
+
+.texte{
+  color: black;
+}
+.textegras{
+  font-weight: bold;
+  color: black;
+}
+
+a:link {
+	color: #af0100;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #af0100;
+}
+a:hover {
+	text-decoration: underline;
+	color: #ffa300;
+}
+a:active {
+	text-decoration: none;
+	color: #af0100;
+}
+</style>
+</head>
+<body>
+<div id="conteneur" style="text-align: center;"><a href="https://discord.gg/Bm6wnnjZa4" target="_blank"><img style="border: 0px solid ; width: 900px; height: 215px;" alt="logo" src="images/logo.jpg"></a><br>
+</div>
+<div id="conteneur2"><strong><a href="index_en.php" target="_self"><img style="border: 0px solid ; width: 25px; height: 25px;" alt="logo" src="images/gb.png"> English version</a></strong></div>
+<div id="conteneur"><span class="titre">Version actuelle et téléchargement :</span><span class="textegras"> Consulter le discord officiel | </span><strong><a href="https://discord.gg/Bm6wnnjZa4" target="_blank">Lien</a></strong><br>
+<br>
+<table style="width: 900px; text-align: left; margin-left: auto; margin-right: auto;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="100%"><span class="texte">Vous appreciez le pack et souhaitez soutenir son développement, vous pouvez faire un don : <a href="https://www.paypal.me/panteror" target="_blank"><img style="border: 0px solid;" src="images/bouton_paypal_fr.png"></a></td>
+</tr>
+</tbody>
+</table>
+<br>
+<span class="texte"><span class="textegras">1D6 XVM MODPACK</span> est un pack minimaliste pré-configuré regroupant les mods les plus "utiles". Il s'adresse ainsi aux joueurs souhaitant installer l'essentiel simplement. Un installeur automatique s'occupe de tout et un vérificateur de version intégré au jeu se chargera de vous alerter en cas de nouvelle version. Il regroupe les mods et fonctionnalités suivantes :</span><br>
+<br>
+<span class="titre">Configuration XVM</span>
+<ul>
+<li><span class="texte">Affichage des stats wn8 des joueurs au format complet (4 chiffres)</span></li>
+<li><span class="texte">Affichage des pseudos en plus des tanks sur la minimap</span></li>
+<li><span class="texte">Affichage du ping des serveurs sur l'écran de login et dans le garage</span></li>
+<li><span class="texte">Autologin sur le dernier serveur utilisé</span></li>
+<li><span class="texte">Un garage (carrousel) sur plusieurs lignes avec des infos en plus (nb de batailles, winrate, performance, maîtrise, marque d'excellence)</span></li>
+<li><span class="texte">Affichage hitlog des dommages effectués sur 15 lignes</span></li>
+<li><span class="texte">Affichage damagelog (dommages reçus)</span></li>
+<li><span class="texte">Affichage des statistiques d'efficacité pour les missions (Dégats infligés, reçus, bloqués, par assistance, en platoon,...)</span></li>
+<li><span class="texte">Affichage du temps de réparation des modules endommagés sur le panneau du char</span></li>
+<li><span class="texte">Alertes sonores : 6ème sens (Metal Gear Solid), Incendie, Ratelier endommagé</span></li>
+<li><span class="texte">Code couleur des statistiques sur 10 niveaux de wotlabs</span></li>
+<li><span class="texte">Affichage en plein écran de la minimap sur pression de la touche CTRL gauche</span></li>
+<li><span class="texte">Player Panel et Minimap alternatifs sur pression de la touche ALT gauche</span></li>
+<li><span class="texte">Marqueurs personnalisés (affichage du WN8, du drapeau national, winrate)</span></li>
+<li><span class="texte">Icone 6ème sens affiché pendant 9 secondes (durée max du spot)</span></li>
+</ul>
+<span class="titre">Mods Intégrés</span><br>
+<ul>
+<li><span class="texte">ModPack Version Checker de webium (Vérificateur de version du mod)</span></li>
+</ul>
+<span class="titre">Mods Optionnels</span><br>
+<ul>
+<li><span class="texte">XVM eXtended Visualization Mod</span></li>
+<li><span class="texte">Contour Icon Mod de Panteror (Icones contour colorés selon xvm)</span></li>
+<li><span class="texte">Gold Premium & Special Tank Icons de Panteror (Icones des tanks premiums et spéciaux dorés dans le garage)​</span></li>
+<li><span class="texte">Crosshairs J1mB0,Harpoon,Taipan,Hardscope,Meltymap,Warrior (Viseurs)</span></li>
+<li><span class="texte">No Dynamic (Désactive les secousses du canon après le tir en caméra dynamique)</span></li>
+<li><span class="texte">Zoom In/Out (Etend le zoom max du mode sniper & la portée du zoom arrière)</span></li>
+<li><span class="texte">Battle Assistant de reven86 (Deuxième vue arty de coté en pressant la touche G ou clic milieu de la souris)</span></li>
+<li><span class="texte">Session Statistics par P-MOD (Statistiques de sessions - Traduction FR et config personnalisée)</span></li>
+<li><span class="texte">Received Damage Announcer d'Elkano (Annonce dans la zone de chat qui vous a touché avec infos supplémentaires : gold, dégâts alliés)</span></li>
+<li><span class="texte">TotalHP par P-MOD (Barre de vie des équipes)</span></li>
+<li><span class="texte">battleEfficiency (Affichage du WN8 en partie et des dégâts à atteindre)</span></li>
+<li><span class="texte">WN8_Chance (Affiche chances de victoire & WN8 équipes)</span></li>
+<li><span class="texte">Safe Shot (Empêche de tirer sur les cadavres et les alliés)</span></li>
+</ul>
+<span class="titre">Vidéo de présentation en jeu</span><br><br>
+<div style="text-align: center;">
+<iframe width="560" height="350" src="https://www.youtube.com/embed/ddd8uV3kUMQ" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+<span class="titre">Captures d'écran</span><br>
+<br>
+<table style="width: 890px; text-align: left; margin-left: auto; margin-right: auto;" border="0" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="images/fr/ingame1.jpg" target="_blank"><img style="border: 0px solid ; width: 400px; height: 250px;" alt="InGame1" src="images/fr/ingame1-mini.jpg"></a></td>
+<td style="text-align: center;"><a href="images/fr/ingame2.jpg" target="_blank"><img style="border: 0px solid ; width: 400px; height: 250px;" alt="InGame2" src="images/fr/ingame2-mini.jpg"></a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="images/fr/ingame3.jpg" target="_blank"><img style="border: 0px solid ; width: 400px; height: 250px;" alt="InGame3" src="images/fr/ingame3-mini.jpg"></a></td>
+<td style="text-align: center;"><a href="images/fr/ingame4.jpg" target="_blank"><img style="border: 0px solid ; width: 400px; height: 250px;" alt="InGame4" src="images/fr/ingame4-mini.jpg"></a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="images/fr/ingame5.jpg" target="_blank"><img style="border: 0px solid ; width: 400px; height: 250px;" alt="InGame5" src="images/fr/ingame5-mini.jpg"></a></td>
+<td style="text-align: center;"><a href="images/fr/ingame6.jpg" target="_blank"><img style="border: 0px solid ; width: 400px; height: 250px;" alt="InGame6" src="images/fr/ingame6-mini.jpg"></a></td>
+</tr>
+</tbody>
+</table>
+<br>
+<span class="titre">Installation</span><br>
+<br>
+<span class="texte">Suivez les options de l'installeur :</span>
+<br>
+<table style="width: 890px; text-align: left; margin-left: auto; margin-right: auto;" border="0" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td align="center" valign="middle"><a href="images/fr/inst1.jpg" target="_blank"><img style="border: 0px solid ; width: 400px; height: 310px;" alt="Installeur1" src="images/fr/inst1-mini.jpg"></a></td>
+<td align="center" valign="middle"><a href="images/fr/inst2.jpg" target="_blank"><img style="border: 0px solid ; width: 400px; height: 310px;" alt="Installeur2" src="images/fr/inst2-mini.jpg"></a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><a href="images/fr/inst3.jpg" target="_blank"><img style="border: 0px solid ; width: 400px; height: 310px;" alt="Installeur3" src="images/fr/inst3-mini.jpg"></a></td>
+<td align="center" valign="middle"><a href="images/fr/inst4.jpg" target="_blank"><img style="border: 0px solid ; width: 400px; height: 466px;" alt="Installeur4" src="images/fr/inst4-mini.jpg"></a></td>
+</tr>
+</tbody>
+</table>
+<br>
+<span class="titre">Important</span><br>
+<br>
+<span class="texte">N'oubliez pas d'activer les statistiques sur le site d'<a href="http://www.modxvm.com/fr/" target="_blank">XVM</a> une fois tous les 15 jours en vous connectant sur le <a href="http://www.modxvm.com/fr/" target="_blank">site</a> : Cliquez sur "Sign In" en Haut à droite, puis sélectionnez [EU] Europe pour vous connecter avec votre compte Wargaming. Enfin cliquez dans le menu du haut sur Add Client et Activate Services.</span>
+<br>
+<br>
+<span class="titre">Liens</span><br>
+<br>
+<table style="width: 890px; text-align: left; margin-left: auto; margin-right: auto;" border="0" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td width="50%" align="center" valign="middle"><a href="https://discord.gg/Bm6wnnjZa4" target="_blank"><img style="border: 0px solid ; width: 84px; height: 64px;" src="images/discord.png"></a><span class="textegras">   <a href="https://discord.gg/Bm6wnnjZa4" target="_blank">Discord 1D6 ModPack</a></span></td>
+<td width="50%" align="center" valign="middle"><a href="http://forum.worldoftanks.eu/index.php?/topic/520958-" target="_blank"><img style="border: 0px solid ; width: 64px; height: 64px;" src="images/wot.png"></a><span class="textegras">   <a href="http://forum.worldoftanks.eu/index.php?/topic/520958-" target="_blank">Support et Suggestion</a></span></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle"><a href="https://www.youtube.com/@1d6lesindecis35" target="_blank"><img style="border: 0px solid ; width: 64px; height: 64px;" src="images/youtube.png"></a><span class="textegras">   <a href="https://www.youtube.com/@1d6lesindecis35" target="_blank">Chaîne 1D6</span></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<br>
+<br>
+</body></html>
